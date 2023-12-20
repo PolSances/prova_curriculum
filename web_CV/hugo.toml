@@ -1,0 +1,30 @@
+baseURL = "http://prova.org/"
+languageCode = "en-us"
+title = "Pol Sances Guirao"
+theme = "m10c"
+
+[params]
+  author = "Pol Sances Guirao"
+  description = "Sóc un estudiant de 17 anys que resideix a Tordera amb inquietuds de voler prosperar a la vida. "
+  avatar = "/foto-piera.jpg"
+  menu_item_separator = " - "
+  favicon = "/favicon.ico"
+
+
+[[params.social]]
+  icon = "github"
+  name = "Github Page"
+  url = "https://github.com/PolSances"
+
+[[params.social]]
+  icon = "instagram"
+  name = "instagram page"
+  url = "https://instagram.com"
+
+[params.style]
+  darkestColor = "#2e2c2c"
+  darkColor = "#212121"
+  lightColor = "#f5e3e0"
+  lightestColor = "#f5f5f5"
+  primaryColor = "#ffffff"
+
