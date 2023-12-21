@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pol Sances Guirao</title>
-    <link>http://prova.org/tags/</link>
+    <link>https://PolSances.github.io/curriculum/tags/</link>
     <description>Recent content in Tags on Pol Sances Guirao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://prova.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://PolSances.github.io/curriculum/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
